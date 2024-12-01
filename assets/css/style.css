@@ -111,3 +111,9 @@ i:hover {
 i:active {
   background-color: rgba(148, 148, 146, 0.877);
 }
+.flex-item-contact:hover {
+  background-color: rgb(215, 169, 226);
+}
+.flex-item-contact:active {
+  background-color: rgb(170, 168, 170);
+}
